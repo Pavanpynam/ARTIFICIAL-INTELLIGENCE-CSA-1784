@@ -1,4 +1,4 @@
-import random
+QT agimport random
 
 def display(room):
     print(room)
